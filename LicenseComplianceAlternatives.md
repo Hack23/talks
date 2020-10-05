@@ -25,8 +25,13 @@ ___
 Dependencies
 <https://hack23.github.io/cia/dependencies.html>
 
+## Generate bill-of-material document from the project
+Good to publish bom:s to maven repository using <https://github.com/CycloneDX/cyclonedx-maven-plugin>
+
 ## Configuration
+
 Resolve projects with missing license information : <https://github.com/Hack23/cia/blob/master/citizen-intelligence-agency/src/license/THIRD-PARTY.properties>
+
 
 
 ```      <plugin>
