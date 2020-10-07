@@ -1,23 +1,24 @@
 # Open source license compliance check alternatives for Java Maven projects
 
-## General problem with open source
-  * Decide the project license
-  * Decide which open source projects to include/allow in project.
-  * Governance/Compliance to review only allowed/expected licenses are used.
-  * Resolve projects with missing license information, no license in pom.xml for dependencies.
-  * Resolve non standard naming variants of known licenses.
-  * Comply with Obligations Found, examples give credit, include copyright/license/notice.
-  * Integrity of existing license, can license of project be verified reference to license file, notice in source code files.
-
-## Standards
+## Problem
 
 Software Component Verification Standard (SCVS) <https://owasp.org/scvs>
 <https://github.com/OWASP/Software-Component-Verification-Standard/releases/download/1.0/OWASP_SCVS-1.0-en.pdf>
+  * V1: Inventory
+  * V2: Software Bill of Materials (SBOM)
+  * V3: Build Environment
+  * V4: Package Management
+  * V5: Component Analysis
+  * V6: Pedigree and Provenance
 
+
+## Standards
 The Industry Standard for Open Source Compliance
 <https://www.openchainproject.org/>
 <https://github.com/OpenChain-Project/curriculum/raw/master/slides/openchain-curriculum-for-2-0.pdf>
 
+
+## Dataformat
 CycloneDX is a lightweight software bill-of-material (SBOM) specification designed for use in application security contexts and supply chain component analysis.
 <https://cyclonedx.org/>
 
