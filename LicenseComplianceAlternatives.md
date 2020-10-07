@@ -4,17 +4,38 @@
   * Decide the project license
   * Decide which open source projects to include/allow in project.
   * Governance/Compliance to review only allowed/expected licenses are used.
-  * Resolve projects with missing license information
+  * Resolve projects with missing license information, no license in pom.xml for dependencies.
   * Resolve non standard naming variants of known licenses.
   * Comply with Obligations Found, examples give credit, include copyright/license/notice.
+  * Integrity of existing license, can license of project be verified reference to license file, notice in source code files.
+
+## Standards
+
+Software Component Verification Standard (SCVS) <https://owasp.org/scvs>
+<https://github.com/OWASP/Software-Component-Verification-Standard/releases/download/1.0/OWASP_SCVS-1.0-en.pdf>
+
+The Industry Standard for Open Source Compliance
+<https://www.openchainproject.org/>
+<https://github.com/OpenChain-Project/curriculum/raw/master/slides/openchain-curriculum-for-2-0.pdf>
+
+CycloneDX is a lightweight software bill-of-material (SBOM) specification designed for use in application security contexts and supply chain component analysis.
+<https://cyclonedx.org/>
+
 
 
 ## Tools and procedures
 Have a few examples of tools that have/are being used at <https://github.com/Hack23/cia>.
 * Maven plugins
+Free, manual configuration and reports per project
+
 * Sonarqube plugin
+Free, global configuration and reports per project.
+
 * FOSSA
+Commercial(Free for open source), global configuration and reports per project.
+
 * Copilot Blackduck
+Commercial(Free for open source), global configuration and reports per project.
 ___
 
 
@@ -113,6 +134,12 @@ ___
 
 ## Export
 <https://app.fossa.com/projects/git%2Bgithub.com%2FHack23%2Fcia/refs/branch/master/10b06718e7ffc355fa299f916b73032e2095799c/export>
+
+## Config
+```
+  - fossa init
+  - fossa analyze
+```
 ___
 
 
@@ -122,5 +149,8 @@ ___
 ##Report
 <https://copilot.blackducksoftware.com/github/repos/Hack23/cia/branches/master>
 
-
+##Config
+```
+  - bash <(curl -s https://copilot.blackducksoftware.com/ci/travis/scripts/upload)
+```
 ___
