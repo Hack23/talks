@@ -21,6 +21,8 @@ The Industry Standard for Open Source Compliance
 CycloneDX is a lightweight software bill-of-material (SBOM) specification designed for use in application security contexts and supply chain component analysis.
 <https://cyclonedx.org/>
 
+The Software Package Data Exchange (SPDX)
+<https://spdx.dev/specifications/>
 
 
 ## Tools and procedures
