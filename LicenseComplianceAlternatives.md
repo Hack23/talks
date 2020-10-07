@@ -14,7 +14,7 @@ Software Component Verification Standard (SCVS) <https://owasp.org/scvs>
 
 ## Standards
 The Industry Standard for Open Source Compliance
-<https://www.openchainproject.org/>
+<https://www.openchainproject.org/> <https://wiki.linuxfoundation.org/_media/openchain/openchainspec-2.0.pdf>
 <https://github.com/OpenChain-Project/curriculum/raw/master/slides/openchain-curriculum-for-2-0.pdf>
 
 
