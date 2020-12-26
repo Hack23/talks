@@ -11,4 +11,7 @@ License tools for Java projects <https://github.com/Hack23/talks/blob/master/Lic
 To include security testing of cloudformation <https://github.com/stelligent/cfn_nag> and sonarqube
 <https://github.com/Hack23/sonar-cloudformation-plugin> can be used.
 
-To include security testingf of docker <https://github.com/aquasecurity/trivy> and <https://github.com/ministryofjustice/container-check-sonar-plugin> can be used.
+To include security testing of docker <https://github.com/aquasecurity/trivy> and <https://github.com/ministryofjustice/container-check-sonar-plugin> can be used.
+
+
+Latest <https://github.com/Hack23/cia/blob/master/Jenkinsfile> and <https://www.hack23.com/jenkins/job/Hack23/job/cia/job/master/>
