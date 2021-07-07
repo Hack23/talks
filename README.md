@@ -2,6 +2,7 @@
 How to secure your development pipeline with static application security test (SAST) / Dynamic application security test (DAST), software composition analysis (SCA) using Sonarqube.
 
 Talk at Javaforum Göteborg <https://www.youtube.com/watch?v=A_hq2Y03d6I>
+
 Security podcast "Shift Left Like A Boss" <https://get.soluble.cloud/posts/2021/05/security-superfriends-episode-7-james-s%C3%B6rling/>
 
 Presentation/slides at <https://github.com/Hack23/talks/raw/master/SecureDevelopmentPipeline20190919.pptx> and
