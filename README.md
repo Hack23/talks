@@ -1,19 +1,31 @@
-# talks
-How to secure your development pipeline with static application security test (SAST) / Dynamic application security test (DAST), software composition analysis (SCA) using Sonarqube.
+# Talks by Hack23
 
-Talk at Javaforum Göteborg <https://www.youtube.com/watch?v=A_hq2Y03d6I>
+This repository contains resources and talks on securing your development pipeline with static application security testing (SAST), dynamic application security testing (DAST), and software composition analysis (SCA) using SonarQube.
 
-Security podcast "Shift Left Like A Boss" <https://www.youtube.com/watch?v=aYwSd1Wu28Q&ab_channel=Soluble/>
+## Contents
 
-Presentation/slides at <https://github.com/Hack23/talks/raw/master/SecureDevelopmentPipeline20190919.pptx> and
-<https://github.com/Hack23/talks/raw/master/SecureDevelopmentPipeline20190919.odp>
+- [Secure Development Pipeline Talk](#secure-development-pipeline-talk)
+- [License Tools for Java Projects](#license-tools-for-java-projects)
+- [Security Testing Tools](#security-testing-tools)
+- [Examples](#examples)
 
-License tools for Java projects <https://github.com/Hack23/talks/blob/master/LicenseComplianceAlternatives.md>
+## Secure Development Pipeline Talk
 
-To include security testing of cloudformation <https://github.com/stelligent/cfn_nag> and sonarqube
-<https://github.com/Hack23/sonar-cloudformation-plugin> can be used.
+This talk was presented at Javaforum Göteborg, and you can watch the video [here](https://www.youtube.com/watch?v=A_hq2Y03d6I).
 
-To include security testing of docker <https://github.com/aquasecurity/trivy> and <https://github.com/ministryofjustice/container-check-sonar-plugin> can be used.
+A related podcast, "Shift Left Like A Boss," is available [here](https://www.youtube.com/watch?v=aYwSd1Wu28Q&ab_channel=Soluble/).
 
+Presentation slides are available in [PowerPoint](https://github.com/Hack23/talks/raw/master/SecureDevelopmentPipeline20190919.pptx) and [OpenDocument](https://github.com/Hack23/talks/raw/master/SecureDevelopmentPipeline20190919.odp) formats.
 
-Latest <https://github.com/Hack23/cia/blob/master/Jenkinsfile> and <https://www.hack23.com/jenkins/job/Hack23/job/cia/job/master/>
+## License Tools for Java Projects
+
+A list of license tools for Java projects can be found [here](https://github.com/Hack23/talks/blob/master/LicenseComplianceAlternatives.md).
+
+## Security Testing Tools
+
+- For security testing of AWS CloudFormation templates, you can use [cfn_nag](https://github.com/stelligent/cfn_nag) and the [SonarQube CloudFormation plugin](https://github.com/Hack23/sonar-cloudformation-plugin).
+- For security testing of Docker containers, you can use [Trivy](https://github.com/aquasecurity/trivy) and the [Container Check Sonar plugin](https://github.com/ministryofjustice/container-check-sonar-plugin).
+
+## Examples
+
+The latest Jenkinsfile example can be found in the [Hack23 CIA repository](https://github.com/Hack23/cia/blob/master/Jenkinsfile)
