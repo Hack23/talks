@@ -470,6 +470,128 @@ timeline
   <a href="https://github.com/Hack23/talks"><img src="https://img.shields.io/badge/Tech_Talks-Watch-FF0000?style=for-the-badge&logo=youtube" alt="Tech Talks"/></a>
 </div>
 
+## 🔑 Security Services
+
+Professional cybersecurity consulting services delivered remotely or in-person in Gothenburg. Drawing from over three decades of experience in software development and security architecture, we deliver practical security solutions that integrate seamlessly into your development processes without hindering innovation.
+
+---
+
+## 📋 Service Overview
+
+<table>
+  <tr>
+    <td>🌐 Availability</td>
+    <td>Remote or in-person (Gothenburg)</td>
+  </tr>
+  <tr>
+    <td>💰 Pricing</td>
+    <td>Contact for pricing</td>
+  </tr>
+  <tr>
+    <td>🏢 Company</td>
+    <td>Hack23 AB (Org.nr 5595347807)</td>
+  </tr>
+  <tr>
+    <td>📧 Contact</td>
+    <td>LinkedIn</td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Core Service Areas
+
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Services</th>
+    <th>Ideal for</th>
+  </tr>
+  <tr>
+    <td>🏗️ Security Architecture & Strategy</td>
+    <td>
+      Enterprise Security Architecture: Design and implementation of comprehensive security frameworks<br>
+      Risk Assessment & Management: Systematic identification and mitigation of security risks<br>
+      Security Strategy Development: Alignment of security initiatives with business objectives<br>
+      Governance Framework Design: Policy development and security awareness programs
+    </td>
+    <td>Organizations needing strategic security leadership and architectural guidance</td>
+  </tr>
+  <tr>
+    <td>☁️ Cloud Security & DevSecOps</td>
+    <td>
+      Secure Cloud Solutions: AWS security assessment and architecture (Advanced level)<br>
+      DevSecOps Integration: Security seamlessly integrated into agile development processes<br>
+      Infrastructure as Code Security: Secure CloudFormation, Terraform implementations<br>
+      Container & Serverless Security: Modern application security best practices
+    </td>
+    <td>Development teams transitioning to cloud-native architectures with security focus</td>
+  </tr>
+  <tr>
+    <td>🔧 Secure Development & Code Quality</td>
+    <td>
+      Secure SDLC Implementation: Building security into development lifecycles<br>
+      CI/CD Security Integration: Automated security testing and validation<br>
+      Code Quality & Security Analysis: Static analysis, vulnerability scanning<br>
+      Supply Chain Security: SLSA Level 3 compliance, SBOM implementation
+    </td>
+    <td>Development teams seeking to embed security without slowing innovation</td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Specialized Expertise
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Services</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>📋 Compliance & Regulatory</td>
+    <td>
+      Regulatory Compliance: GDPR, NIS2, ISO 27001 implementation<br>
+      ISMS Design & Implementation: Information Security Management Systems<br>
+      AI Governance: Emerging AI risk management frameworks<br>
+      Audit Preparation: Documentation and evidence preparation
+    </td>
+    <td>Navigate complex regulatory landscapes with confidence</td>
+  </tr>
+  <tr>
+    <td>🌐 Open Source Security</td>
+    <td>
+      Open Source Program Office: OSPO establishment and management<br>
+      Vulnerability Management: Open source risk assessment and remediation<br>
+      Security Tool Development: Custom security solutions and automation<br>
+      Community Engagement: Open source security best practices
+    </td>
+    <td>Leverage open source securely while contributing to security transparency</td>
+  </tr>
+  <tr>
+    <td>🎓 Security Culture & Training</td>
+    <td>
+      Security Awareness Programs: Building organization-wide security culture<br>
+      Developer Security Training: Secure coding practices and methodologies<br>
+      Leadership Security Briefings: Executive-level security understanding<br>
+      Incident Response Training: Preparedness and response capability building
+    </td>
+    <td>Transform security from barrier to enabler through education and culture</td>
+  </tr>
+</table>
+
+---
+
+## 💡 Why Choose Hack23 Security Services?
+
+Three decades of hands-on experience in software development and security architecture means we understand the real challenges development teams face. We don't just point out problems—we provide practical, implementable solutions that enhance security without slowing down innovation.
+
+**Our approach:** Security should be seamlessly integrated into your existing processes, not bolted on afterward. We help organizations build a culture of security awareness where protection becomes a natural part of how teams work, not an obstacle to overcome.
+
+**Passionate about transparency:** As advocates for open source security, we believe in sharing knowledge and building community. Our solutions are designed to be understandable, maintainable, and aligned with industry best practices.
+
+
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=pethers&style=flat-square" alt="Profile Views"/>
