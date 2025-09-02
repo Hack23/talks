@@ -13,9 +13,6 @@
 
 This repository contains resources and talks by James Pether Sörling, focusing on secure development practices, application security testing, and compliance automation. Below you'll find resources from presentations, security testing tools, and examples for implementing secure practices in your projects.
 
-![GitHub Org's stars](https://img.shields.io/github/stars/Hack23)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pethers&show_icons=true&theme=radical)
-
 ## 📋 Contents
 
 - [Secure Development Pipeline Talk](#secure-development-pipeline-talk)
