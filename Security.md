@@ -1,5 +1,16 @@
+# Security Resources and ISMS Policy References
 
+This document provides security resources for threat modeling, vulnerability management, and compliance frameworks. All security practices are backed by Hack23 AB's [ISMS-PUBLIC](https://github.com/Hack23/ISMS-PUBLIC) repository, demonstrating our commitment to transparent security governance.
 
+## Referenced Security Policies
+
+The security practices discussed below align with Hack23 AB's documented ISMS policies:
+
+- **[Information Security Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md)** - Overall security management framework and governance
+- **[Secure Development Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md)** - SDLC security requirements, DevSecOps practices
+- **[Vulnerability Management Procedure](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Vulnerability_Management_Procedure.md)** - Systematic vulnerability identification and remediation
+
+---
 
 ## Threats
 
@@ -43,7 +54,6 @@ Not all known software security issues covered, mainly companies and large organ
 
 
 
-
 # Group the rules to CWE
 
 
@@ -73,7 +83,6 @@ Tracking bugs: Vulnerabilities without cve:s
 Not all security issues covered, mainly companies and large organizations
 
 So important to patch often.
-
 
 
 
@@ -171,4 +180,3 @@ CycloneDX is a lightweight software bill-of-material (SBOM) specification design
 
 The Software Package Data Exchange (SPDX)
 <https://spdx.dev/specifications/>
-

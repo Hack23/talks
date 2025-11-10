@@ -1,5 +1,17 @@
 # Open source license compliance check alternatives for Java Maven projects
 
+## ISMS Policy References
+
+The license compliance practices discussed in this document align with Hack23 AB's documented ISMS policies:
+
+- **[Open Source Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Open_Source_Policy.md)** - Comprehensive open source governance, license compliance, and SBOM requirements
+- **[Third Party Management](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Third_Party_Management.md)** - Vendor and third-party component security assessment procedures
+- **[Secure Development Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md)** - Software composition analysis (SCA) requirements in CI/CD pipelines
+
+For the complete ISMS documentation, visit the [ISMS-PUBLIC repository](https://github.com/Hack23/ISMS-PUBLIC).
+
+---
+
 ## Problem
 
 Software Component Verification Standard (SCVS) <https://owasp.org/scvs>
