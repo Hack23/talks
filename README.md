@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-jamessorling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Hack23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.openhub.net/accounts/pether"><img src="https://img.shields.io/badge/OpenHub-pether-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OpenHub"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC"><img src="https://img.shields.io/badge/ISMS-PUBLIC-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="ISMS-PUBLIC"/></a>
 </div>
 
 ---
@@ -15,12 +16,62 @@ This repository contains resources and talks by James Pether Sörling, focusing 
 
 ## 📋 Contents
 
+- [Referenced ISMS Policies](#-referenced-isms-policies)
 - [Secure Development Pipeline Talk](#secure-development-pipeline-talk)
 - [License Tools for Java Projects](#license-tools-for-java-projects)
 - [Security Testing Tools](#security-testing-tools)
 - [Practical Examples](#practical-examples)
 - [Projects & Expertise](#projects--expertise)
 - [About Me](#about-me)
+
+---
+
+## 🔐 Referenced ISMS Policies
+
+All security practices and compliance approaches discussed in these presentations are backed by Hack23 AB's publicly available Information Security Management System (ISMS). This demonstrates our commitment to security-through-transparency.
+
+<div align="center">
+  <a href="https://github.com/Hack23/ISMS-PUBLIC">
+    <img src="https://img.shields.io/badge/View-ISMS--PUBLIC-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="ISMS-PUBLIC Repository"/>
+  </a>
+</div>
+
+### Core Security Policies
+
+<table>
+  <tr>
+    <th>Policy Area</th>
+    <th>Document</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🔐 Information Security</td>
+    <td><a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md">Information Security Policy</a></td>
+    <td>Foundation of our security management system, defining security principles and governance structure</td>
+  </tr>
+  <tr>
+    <td>🛠️ Secure Development</td>
+    <td><a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md">Secure Development Policy</a></td>
+    <td>DevSecOps practices, CI/CD security, SAST/DAST/SCA requirements, and compliance automation</td>
+  </tr>
+  <tr>
+    <td>📜 Open Source Compliance</td>
+    <td><a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Open_Source_Policy.md">Open Source Policy</a></td>
+    <td>Open source license compliance, SBOM generation, and vulnerability management</td>
+  </tr>
+  <tr>
+    <td>🤝 Third-Party Management</td>
+    <td><a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Third_Party_Management.md">Third Party Management</a></td>
+    <td>Vendor security assessment, supply chain risk management, and procurement security</td>
+  </tr>
+  <tr>
+    <td>🔍 Vulnerability Management</td>
+    <td><a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Vulnerability_Management_Procedure.md">Vulnerability Management Procedure</a></td>
+    <td>Systematic approach to identifying, assessing, and remediating security vulnerabilities</td>
+  </tr>
+</table>
+
+For a complete mapping of presentation topics to ISMS policies, see [ISMS_REFERENCE_GUIDE.md](ISMS_REFERENCE_GUIDE.md).
 
 ---
 
