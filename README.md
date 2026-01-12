@@ -159,7 +159,7 @@ This guide covers tools for license detection, compatibility analysis, and compl
     <td width="50%">
       <h3 align="center">🔐 CIA Compliance Manager</h3>
       <div align="center">
-        <a href="https://github.com/Hack23/cia-compliance-manager"><img src="https://ciacompliancemanager.com/icon-192.png" width="100" alt="CIA Compliance Manager Logo"/></a>
+        <a href="https://github.com/Hack23/cia-compliance-manager"><img src="https://hack23.com/icon-192.png" width="100" alt="CIA Compliance Manager Logo"/></a>
         <p><i>Security assessment platform for the CIA triad with compliance mapping to regulatory frameworks</i></p>
         <div>
           <a href="https://ciacompliancemanager.com/">🚀 Live Demo</a> |
@@ -229,7 +229,7 @@ This guide covers tools for license detection, compatibility analysis, and compl
     <th>Future Vision</th>
   </tr>
   <tr>
-    <td><img src="https://ciacompliancemanager.com/icon-192.png" width="24" height="24"> CIA Compliance Manager</td>
+    <td><img src="https://hack23.com/icon-192.png" width="24" height="24"> CIA Compliance Manager</td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/ARCHITECTURE.md">🏛️ Architecture</a></td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/SECURITY_ARCHITECTURE.md">🔒 Security</a></td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_ARCHITECTURE.md">🔮 Future</a></td>
@@ -250,7 +250,7 @@ This guide covers tools for license detection, compatibility analysis, and compl
     <th>Mindmaps</th>
   </tr>
   <tr>
-    <td><img src="https://ciacompliancemanager.com/icon-192.png" width="24" height="24"> CIA Compliance Manager</td>
+    <td><img src="https://hack23.com/icon-192.png" width="24" height="24"> CIA Compliance Manager</td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FLOWCHART.md">📊 Flowcharts</a></td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/STATEDIAGRAM.md">🔄 States</a></td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/MINDMAP.md">🧠 Mindmaps</a></td>
