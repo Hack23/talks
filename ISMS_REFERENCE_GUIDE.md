@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://hack23.github.io/cia-compliance-manager/icon-192.png" width="192" height="192" alt="Hack23 AB">
+  <img src="https://ciacompliancemanager.com/icon-192.png" width="192" height="192" alt="Hack23 AB">
 </h1>
 
 <h1 align="center">🔐 Hack23 AB — ISMS Reference Guide for Talks & Presentations</h1>
